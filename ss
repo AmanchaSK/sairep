@@ -9,3 +9,5 @@ h
 i
 j
 message from ubuntu
+<body>
+</body>
