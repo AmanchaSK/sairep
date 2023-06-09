@@ -15,4 +15,7 @@ message from ubuntu
 </html>
 <body>
 </body>
+<<<<<<< HEAD
 my 1st line from usa
+my first line from mumbai
+my 1st line from ubuntu
